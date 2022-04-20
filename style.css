@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(166, 160, 182);
+}
+.display {
+    background-color: gray;
+    padding: 10px;
+    min-height: 50px;
+    height: auto;
+    border-radius: 25px 25px 0 0;
+    text-align: right;
+}
+
+.previous-operand {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.70);
+}
+
+.current-operand {
+    font-size: 40px;
+}
+
+
+.calculator {
+    background-color: rgb(187, 187, 187);
+    height: 600px;
+    max-width: 400px;
+    margin: 10vh auto 0 auto;
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 0 15px 43px 15px rgba(153, 153, 153,1);
+}
+
+.buttons {
+        height: 100px;
+        width: 100px;
+}
+
+.large-button{
+    width: 50px;
+    text-align: center;
+}
