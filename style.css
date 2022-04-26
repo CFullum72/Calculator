@@ -10,12 +10,12 @@ body {
     text-align: right;
 }
 
-.previous-operand {
+#previous-operand {
     font-size: 30px;
     color: rgba(0, 0, 0, 0.412);
 }
 
-.current-operand {
+#current-operand {
     font-size: 60px;
 }
 
